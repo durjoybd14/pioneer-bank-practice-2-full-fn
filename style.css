@@ -1,0 +1,30 @@
+body{
+    padding: 100px;
+}
+
+.top-cards{
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.top-cards, .bottom-card, .login{
+    border-radius: 10px;
+
+}
+
+/* #transaction{
+    display: none;
+} */
+
+
+
+#deposit{
+    background-color: #6a5acd;
+}
+#withdraw{
+    background-color: #ffa07a;
+}
+#balance{
+    background-color: #ffa500;
+}
